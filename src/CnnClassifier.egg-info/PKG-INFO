@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: CnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Niranjin/Kidney_disease_classification
+Author: Niranjin
+Author-email: niranjan.2004102@srec.ac.in
+Project-URL: Bug Tracker, https://github.com/Niranjin/Kidney_disease_classification/issues
+
+# Kidney_disease_classification
